@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Yelp</string>
+    <string-array name="categories">
+        <item>Default</item>
+        <item>Arts &amp; Entertainment</item>
+        <item>Health &amp; Medical</item>
+        <item>Hotels &amp; Travel</item>
+        <item>Food</item>
+        <item>Professional Services</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
